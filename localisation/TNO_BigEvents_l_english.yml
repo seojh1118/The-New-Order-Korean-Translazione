@@ -31,18 +31,18 @@ BE_THE_YOCKEY_INAUGURATION_T:0 "THE YOCKEY PRESIDENCY"
 BE_THE_YOCKEY_INAUGURATION_D:0 ""A general Dissolution of Principles & Manners will more surely overthrow the Liberties of America than the whole Force of the Common Enemy."\n- Samuel Adams"
 BE_THE_YOCKEY_INAUGURATION_A:0 "It Happened Here"
 
-BE_THE_MARS_LANDING_T:0 "THE MARS LANDING"
-BE_THE_MARS_LANDING_D:0 ""The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."\n- Konstantin Tsiolkovsky"
-BE_THE_MARS_LANDING_A:0 "The Journey Begins"
+BE_THE_MARS_LANDING_T:0 "화성 착륙"
+BE_THE_MARS_LANDING_D:0 ""지구는 인류의 요람이었지만 인류는 평생 요람에서만 살 수는 없을 것이다."\n- 콘스탄틴 치올콥스키"
+BE_THE_MARS_LANDING_A:0 "여정이 시작되었다"
 
 
 BE_INDIAN_WAR_T:0 "THE INDIAN WAR"
 BE_INDIAN_WAR_D:0 "One individual may die for an idea, but that idea will after his death, incarnate itself in a thousand lives.\n- Subhas Chandra Bose"
 BE_INDIAN_WAR_A:0 "India is calling"
 
-BE_NUCLEAR_WAR_T:0 "THERMONUCLEAR WAR"
-BE_NUCLEAR_WAR_D:0 "I demolish my bridges behind me... then there is no choice but to move forward.\n- Fridtjof Nansen"
-BE_NUCLEAR_WAR_A:0 "So long"
+BE_NUCLEAR_WAR_T:0 "열핵전쟁"
+BE_NUCLEAR_WAR_D:0 "나는 나의 뒤에 있는 다리를 무너트렸다. 남은 선택은 앞으로 나아가는 것뿐.\n- 프리드요프 난센"
+BE_NUCLEAR_WAR_A:0 "모두들 안녕히"
 
 BE_EC_T:0 "THE ENGLISH CATASTROPHE"
 BE_EC_D:0 "When beggars die, there are no comets seen;\nThe heavens themselves blaze forth the death of princes\n- William Shakespeare"
