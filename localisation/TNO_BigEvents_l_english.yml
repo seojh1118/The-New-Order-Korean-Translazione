@@ -68,9 +68,9 @@ BE_SECOND_GERMAN_CIVIL_WAR_T:0 "2ND GERMAN CIVIL WAR"
 BE_SECOND_GERMAN_CIVIL_WAR_D:0 "Why, of course, the people don't want war. But, after all, it is the leaders of the country who determine the policy and it is always a simple matter to drag the people along.\n- Hermann Göring"
 BE_SECOND_GERMAN_CIVIL_WAR_A:0 "Europe in Flames"
 
-BE_SGR_SLAVE_REVOLT_T:0 "THE SLAVE REVOLT"
-BE_SGR_SLAVE_REVOLT_D:0 "One people will we be, - a band of brothers;\nNo danger, no distress shall sunder us.\nWe will be freemen as our fathers were,\nAnd sooner welcome death than live as slaves.\n- Friedrich Schiller, "William Tell""
-BE_SGR_SLAVE_REVOLT_A:0 "Freedom beckons"
+BE_SGR_SLAVE_REVOLT_T:0 "노예 봉기"
+BE_SGR_SLAVE_REVOLT_D:0 "우리는 하나의 민족-형제들-이리라.\n어떤 위험도, 어떤 고난도 우리를 찢어놓을 수 없으리.\n우리의 선조들처럼 자유민이 될 것인데\n노예로 살기에는 빠른 죽음을 반길 것이리라.\n- 프리드리히 실러 “빌헬름 텔”
+BE_SGR_SLAVE_REVOLT_A:0 "자유가 부른다"
 
 BE_ZWEITE_NACHT_DER_LANGEN_MESSER_T: "2ND NIGHT OF LONG KNIVES"
 BE_ZWEITE_NACHT_DER_LANGEN_MESSER_D: "Life does not forgive weakness.\n- Adolf Hitler"
