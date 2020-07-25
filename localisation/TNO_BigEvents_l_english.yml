@@ -1,15 +1,15 @@
 ﻿l_english:
 BE_GERMAN_CIVIL_WAR_T:0 "독일 내전"
 BE_GERMAN_CIVIL_WAR_D:0 "따라서 개인은 결국 자신의 자아가 국가의 존재 앞에서는 그다지 중요하지 않다는 사실을 깨닫게 될 필요가 있다.\n- 아돌프 히틀러, 1933"
-BE_GERMAN_CIVIL_WAR_A:0 "결국 시작해 버렸군"
+BE_GERMAN_CIVIL_WAR_A:0 "이렇게 시작되는군"
 
 BE_SOUTH_AFRICAN_WAR_T:0 "남아프리카 전쟁"
-BE_SOUTH_AFRICAN_WAR_D:0 "누구도 전쟁을 시작하지 않는다. 아니, 제 정신을 가진 사람이라면 시작하지 말아야 한다. 전쟁을 통해 무엇을 이루려고 하는지, 그리고 그것을 어떻게 실행할 것인지를 먼저 마음 속에 분명히 하지 않고는 말이다. - 해럴드 G. 무어, 우리는 한때 군인이었다... 그리고 젊었다"
+BE_SOUTH_AFRICAN_WAR_D:0 "누구도 전쟁을 시작하지 않는다. 아니, 제 정신을 가진 사람이라면 시작하지 말아야 한다. 전쟁을 통해 무엇을 이루려고 하는지, 그리고 그것을 어떻게 실행할 것인지를 먼저 마음 속에 분명히 하지 않고는 말이다. - 해럴드 G. 무어, 위 워 솔져스"
 BE_SOUTH_AFRICAN_WAR_A:0 "도미노는 멈춰야만 한다"
 
-BE_JAPANESE_ECONOMIC_WAR_T:0 "ECONOMIC WARS"
-BE_JAPANESE_ECONOMIC_WAR_D:0 "The men stood by the sill, calmly, and waited their turn to jump.\n-A Tokyo Exchange secretary"
-BE_JAPANESE_ECONOMIC_WAR_A:0 "Out with a crash." 
+BE_JAPANESE_ECONOMIC_WAR_T:0 "경제 전쟁"
+BE_JAPANESE_ECONOMIC_WAR_D:0 "그들은 가만히, 침착하게, 뛰어내릴 순서를 기다리고 있었다.\n-한 도쿄 환전소 비서"
+BE_JAPANESE_ECONOMIC_WAR_A:0 "굉음이 들렸다." 
 
 BE_INDIAN_CIVIL_WAR_T:0 "THE INDIAN CIVIL WAR"
 BE_INDIAN_CIVIL_WAR_D:0 "An eye for an eye only makes the whole world blind.\n- Mohandas Gandhi"
@@ -19,9 +19,9 @@ BE_INDONESIAN_WAR_T:0 "THE INDONESIAN WAR"
 BE_INDONESIAN_WAR_D:0 "We prefer independence with poverty to servitude with plenty!\n- Sekou Toure"
 BE_INDONESIAN_WAR_A:0 "The Pacific alight"
 
-BE_GREAT_ASIAN_WAR_T:0 "THE GREAT ASIAN WAR"
-BE_GREAT_ASIAN_WAR_D:0 "Other men are the carving knife and serving dish; we are the fish and the meat.\n- Dr. Sun Yat-Sen"
-BE_GREAT_ASIAN_WAR_A:0 "Asia shall bleed"
+BE_GREAT_ASIAN_WAR_T:0 "대아전쟁"
+BE_GREAT_ASIAN_WAR_D:0 "다른 이들은 자르는 칼과 서빙되는 접시들이다; 그리고 우리는 그 위의 물고기와 고기이다.\n- 손중산 선생"
+BE_GREAT_ASIAN_WAR_A:0 "아시아는 피를 흘려야 한다"
 
 BE_THE_HALL_INAUGURATION_T:0 "THE HALL PRESIDENCY"
 BE_THE_HALL_INAUGURATION_D:0 ""We can bring to birth a new world from the ashes of the old,\n For the union makes us strong"\n- A Traditional Folk Piece"
@@ -31,18 +31,18 @@ BE_THE_YOCKEY_INAUGURATION_T:0 "THE YOCKEY PRESIDENCY"
 BE_THE_YOCKEY_INAUGURATION_D:0 ""A general Dissolution of Principles & Manners will more surely overthrow the Liberties of America than the whole Force of the Common Enemy."\n- Samuel Adams"
 BE_THE_YOCKEY_INAUGURATION_A:0 "It Happened Here"
 
-BE_THE_MARS_LANDING_T:0 "THE MARS LANDING"
-BE_THE_MARS_LANDING_D:0 ""The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."\n- Konstantin Tsiolkovsky"
-BE_THE_MARS_LANDING_A:0 "The Journey Begins"
+BE_THE_MARS_LANDING_T:0 "화성 착륙"
+BE_THE_MARS_LANDING_D:0 ""지구는 인류의 요람이다. 그러나 인류가 요람에서 영원히 머물 수는 없다."\n- 콘스탄틴 치올콥스키"
+BE_THE_MARS_LANDING_A:0 "여정이 시작되었다"
 
 
 BE_INDIAN_WAR_T:0 "THE INDIAN WAR"
 BE_INDIAN_WAR_D:0 "One individual may die for an idea, but that idea will after his death, incarnate itself in a thousand lives.\n- Subhas Chandra Bose"
 BE_INDIAN_WAR_A:0 "India is calling"
 
-BE_NUCLEAR_WAR_T:0 "THERMONUCLEAR WAR"
-BE_NUCLEAR_WAR_D:0 "I demolish my bridges behind me... then there is no choice but to move forward.\n- Fridtjof Nansen"
-BE_NUCLEAR_WAR_A:0 "So long"
+BE_NUCLEAR_WAR_T:0 "열핵전쟁"
+BE_NUCLEAR_WAR_D:0 "난 내 뒤의 다리들을 무너뜨렸다... 이제 앞으로 나아가는 길 밖에 없다.\n- 프리티오프 난센"
+BE_NUCLEAR_WAR_A:0 "모두들 안녕히"
 
 BE_EC_T:0 "THE ENGLISH CATASTROPHE"
 BE_EC_D:0 "When beggars die, there are no comets seen;\nThe heavens themselves blaze forth the death of princes\n- William Shakespeare"
